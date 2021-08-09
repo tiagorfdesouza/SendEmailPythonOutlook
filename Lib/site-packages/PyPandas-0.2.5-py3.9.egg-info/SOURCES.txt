@@ -1,0 +1,16 @@
+README.md
+setup.cfg
+setup.py
+PyPandas.egg-info/PKG-INFO
+PyPandas.egg-info/SOURCES.txt
+PyPandas.egg-info/dependency_links.txt
+PyPandas.egg-info/requires.txt
+PyPandas.egg-info/top_level.txt
+pypandas/__init__.py
+pypandas/common_patterns.py
+pypandas/core.py
+pypandas/datasets.py
+pypandas/outlier.py
+pypandas/preprocess.py
+pypandas/scale.py
+pypandas/text_cleaner.py

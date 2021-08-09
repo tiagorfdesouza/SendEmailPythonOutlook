@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: PyPandas
+Version: 0.2.5
+Summary: A data cleaning framework for Spark
+Home-page: https://github.com/shtsai7/PyPandas
+Author: plliao, chiahsienlin, shtsai7
+Author-email: pll273@nyu.edu, clh566@nyu.edu, st3127@nyu.edu
+License: MIT
+Download-URL: https://github.com/shtsai7/PyPandas/archive/0.2.5.tar.gz
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.4
